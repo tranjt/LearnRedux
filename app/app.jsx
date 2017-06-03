@@ -13,9 +13,10 @@ $(document).foundation();
 require("style!css!applicationStyle");
 
 ReactDOM.render(    
-    <p>Boilerplate 3</p>,
+    <p>Redux examples</p>,
     document.getElementById("app")
 );
 
 
-require("./redux-example.jsx");
+// require("./redux-example.jsx");
+require("./redux-todo-examples.jsx");
