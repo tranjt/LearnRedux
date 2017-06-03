@@ -12,10 +12,10 @@ $(document).foundation();
 //App css
 require("style!css!applicationStyle");
 
-ReactDOM.render(    
-    <p>Redux examples</p>,
-    document.getElementById("app")
-);
+// ReactDOM.render(    
+//     <p>Redux examples</p>,
+//     document.getElementById("app")
+// );
 
 
 // require("./redux-example.jsx");
