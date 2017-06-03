@@ -18,5 +18,5 @@ require("style!css!applicationStyle");
 // );
 
 
-// require("./redux-example.jsx");
-require("./redux-todo-examples.jsx");
+require("./redux-example.jsx");
+// require("./redux-todo-examples.jsx");
